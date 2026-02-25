@@ -60,7 +60,7 @@ export function Hero() {
       {/* Background Image */}
       <div ref={imageRef} className="absolute inset-0 opacity-0">
         <Image
-          src="/images/hero-woodworker.jpg"
+          src="/images/herobg.jpg"
           alt="Professional woodworker crafting in a workshop"
           fill
           className="object-cover"
