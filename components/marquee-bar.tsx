@@ -4,14 +4,15 @@ import { useEffect, useRef } from "react"
 import { gsap } from "gsap"
 
 const items = [
-  "Custom Kitchens",
-  "Home Office",
-  "Bedroom Closets",
-  "Vanities",
-  "Granite Tops",
-  "Turnkey Projects",
-  "Door Installations",
-  "Wooden Decks",
+  "Wardrobes",
+  "Walk-in Closets",
+  "Wooden Shelves",
+  "Kitchen Cabinets",
+  "TV Stands & Wall Units",
+  "Interior Wooden Doors",
+  "Quality Wood Supply",
+  "Custom Kitchen Units",
+  "Wood Design & Finishing",
 ]
 
 export function MarqueeBar() {

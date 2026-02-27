@@ -73,19 +73,7 @@ export function Navbar() {
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
         <a href="#home" className="flex items-center gap-2">
-          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent">
-            <span className="font-serif text-lg font-bold text-accent-foreground">
-              IB
-            </span>
-          </div>
-          <div className="flex flex-col">
-            <span className="font-serif text-lg font-bold leading-tight text-foreground">
-              Island Boards
-            </span>
-            <span className="text-xs tracking-widest text-muted-foreground uppercase">
-              & Doors
-            </span>
-          </div>
+         <img src="/images/logo.png" className="w-36" alt="" />
         </a>
 
         {/* Desktop Nav */}
